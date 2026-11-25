@@ -1,6 +1,7 @@
 # Copper Bucket roadmap
 
 ## v1 (in progress)
+- 1.0.1: recipe unlock advancement so the recipe shows in the recipe book (unit test guards every recipe).
 - Empty / water / lava / milk copper buckets, 64 uses, recipe = vanilla bucket with copper ingots.
 - Rule: filling is free; 1 damage when the contents are used up (placed or drunk). Creative takes none.
 - Cow milking via `UseEntityCallback`. Anvil repair with copper ingots, Unbreaking/Mending work.
