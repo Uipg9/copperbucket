@@ -1,3 +1,5 @@
+<p align="center"><img src="src/main/resources/assets/copperbucket/icon.png" width="128" alt="icon"></p>
+
 # Copper Bucket
 
 A bucket made of copper. It works like the vanilla bucket, but it wears out and eventually breaks, so it
